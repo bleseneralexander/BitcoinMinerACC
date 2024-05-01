@@ -23,7 +23,7 @@ Best in bitcoin
 Bitcoin Miner App project exhibit
     </div>
     <div class="bac">
-<h1>< WHERE DO WE START MINING BITCOIN </h1>
+<h1>WHERE DO WE START MINING BITCOIN </h1>
 everythings always in the works
 Doge out of this situation
 <h1> DOES IT REALLY ALL START HERE </h1>
