@@ -8,5 +8,3 @@
 <sup> DOES IT REALLY ALL START HERE </sup> 
 ### Please be patient
 ### love to mine 
-npm -g dancing-bear
-npx dancing-bear
