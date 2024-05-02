@@ -1,10 +1,10 @@
-# BitcoinMinerACC 
+<sup> BitcoinMinerACC </sup> 
  ## Bitcoin miner Upwork project
- <sup> Best in bitcoin </sup>
+ ## Best in bitcoin
 ### Bitcoin Miner App project exhibit
 # WHERE DO WE START MINING BITCOIN 
 ## everythings always in the works
 <sup> Doge out of this situation </sup>
-# DOES IT REALLY ALL START HERE 
+<sup> DOES IT REALLY ALL START HERE </sup> 
 ### Please be patient
-<sup> love to mine </sup>
+# love to mine 
